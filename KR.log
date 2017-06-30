@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.14)  29 JUN 2017 03:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.14)  30 JUN 2017 04:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1086,6 +1086,12 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 41.
 
+Underfull \hbox (badness 1874) in paragraph at lines 48--49
+[]\T2A/cmr/m/n/14.4 ”же на ос-но-ве по-счи-тан-но-го ста-ти-че-ско-го ран-га вы
+-счи-ты-ва-ет-с€
+ []
+
+
 Underfull \hbox (badness 2368) in paragraph at lines 51--53
 \T2A/cmr/m/n/14.4 «десь $\OML/cmm/m/it/14.4 SL$ \T2A/cmr/m/n/14.4 --- Static Le
 vel. $\OML/cmm/m/it/14.4 D\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 T[]; R[]\OT1/cm
@@ -1119,22 +1125,44 @@ Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 22.
  [9
 
-]) (./Chapter4.tex
+]
+<dag_example.png, id=143, 438.63875pt x 259.97125pt>
+File: dag_example.png Graphic file (type png)
+ <use dag_example.png>
+Package pdftex.def Info: dag_example.png used on input line 30.
+(pdftex.def)             Requested size: 241.85443pt x 170.71678pt.
+
+<ss_mat_ex.png, id=145, 453.695pt x 547.04375pt>
+File: ss_mat_ex.png Graphic file (type png)
+ <use ss_mat_ex.png>
+Package pdftex.def Info: ss_mat_ex.png used on input line 31.
+(pdftex.def)             Requested size: 213.3959pt x 227.61992pt.
+
+Overfull \hbox (18.04842pt too wide) in paragraph at lines 30--32
+[][] [] 
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 34.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 34.
+[10 <./dag_example.png> <./ss_mat_ex.png>]) (./Chapter4.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
- [10]
+ [11]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 2.
-) (./Conclusion.tex
+)
+(./Conclusion.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
- [11
+ [12
 
 ]
 Package babel Info: Redefining russian shorthand "|
@@ -1148,7 +1176,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
- [12
+ [13
 
 ]
 Package babel Info: Redefining russian shorthand "|
@@ -1165,7 +1193,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 88.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 88.
- [13
+ [14
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
@@ -1174,7 +1202,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 88.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
 Package rerunfilecheck Info: File `KR.out' has not changed.
-(rerunfilecheck)             Checksum: ED57A10959643AEEC91736E1775A03D1;3143.
+(rerunfilecheck)             Checksum: 51746957B37DD36C14951486B17276F1;2967.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1182,10 +1210,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
  ) 
 Here is how much of TeX's memory you used:
- 12184 strings out of 493089
- 164880 string characters out of 6134841
- 248625 words of memory out of 5000000
- 15359 multiletter control sequences out of 15000+600000
+ 12197 strings out of 493089
+ 165083 string characters out of 6134841
+ 249383 words of memory out of 5000000
+ 15367 multiletter control sequences out of 15000+600000
  20973 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,8n,33p,2128b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1205,10 +1233,10 @@ texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texl
 ive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on KR.pdf (14 pages, 260987 bytes).
+Output written on KR.pdf (15 pages, 383359 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
- 200 compressed objects within 2 object streams
- 55 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 248 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
